@@ -1,0 +1,12 @@
+nodeA;nodeB;nodeB;5
+nodeA;nodeC;nodeB;8
+nodeA;nodeD;nodeB;12
+nodeB;nodeA;nodeA;5
+nodeB;nodeC;nodeC;3
+nodeB;nodeD;nodeC;7
+nodeC;nodeA;nodeB;8
+nodeC;nodeB;nodeB;3
+nodeC;nodeD;nodeD;4
+nodeD;nodeA;nodeC;12
+nodeD;nodeB;nodeC;7
+nodeD;nodeC;nodeC;4

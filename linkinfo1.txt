@@ -1,0 +1,8 @@
+nodeA;nodeB;5;100
+nodeA;nodeC;10;80
+nodeA;nodeX;10;80
+nodeB;nodeC;3;100
+nodeB;nodeD;7;80
+nodeY;nodeD;5;100
+nodeC;nodeD;4;100
+nodeC;nodeZ;7;80
